@@ -8,6 +8,8 @@
 +	[Redis @ Pinterest][redis-at-pinterest] - **Aren Sanderson**
 +	[Applied Redis Search][applied-redis-search] - **Josiah Carlson**
 +	[Redis Sentinel][redis-sentinel] - **Salvatore Sanfilippo**
++	[Redis Pain][redis-pain] - **Matt Ranney**
++	[Redis PubSub][redis-pubsub] - **Monica Wilkinson**
 
 [redis-in-perspective]: https://github.com/bmharris/conf_notes/blob/master/redisconf/redis-in-perspective.md
 [two-things-redis-is-not]: https://github.com/bmharris/conf_notes/blob/master/redisconf/two-things-redis-is-not.md
@@ -15,3 +17,5 @@
 [redis-at-pinterest]: https://github.com/bmharris/conf_notes/blob/master/redisconf/redis-at-pinterest.md
 [applied-redis-search]: https://github.com/bmharris/conf_notes/blob/master/redisconf/applied-redis-search.md
 [redis-sentinel]: https://github.com/bmharris/conf_notes/blob/master/redisconf/redis-sentinel.md
+[redis-pain]: https://github.com/bmharris/conf_notes/blob/master/redisconf/redis-pain.md
+[redis-pubsub]: https://github.com/bmharris/conf_notes/blob/master/redisconf/redis-pubsub.md
