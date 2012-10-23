@@ -30,6 +30,8 @@ DEBUG=engine* node app.js
 +	'debug' module works in browser
 +	localStorage == process.env
 	+	too much noise
-+	Chrome Extension
++	[Chrome Extension][extension]
 	+	IO Chrome Extension (in progress)
 	+	visualize and log events related to socket.io/engine.io
+
+[extension]: https://github.com/guille/insights-chrome
