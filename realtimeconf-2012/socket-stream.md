@@ -35,4 +35,5 @@ Owen Barnes
 	+	not always needed
 		+	API tier can contain model logic
 
+functionality is all added through piping streams of data to handlers, eventually to response
 

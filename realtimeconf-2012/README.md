@@ -17,6 +17,8 @@
 +	[Realtime @ &yet][realtime-and-yet] **Henrik Joreteg**
 +	[Meteor - DDP][meteor] **Matt Debergalis**
 +	[SocketStream][socket-stream] **Owen Barnes**
++	[Observability][observability] **Daniel Shaw**
++	[azure][azure] **Glen Block**
 
 [history-of-realtime]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/history-of-realtime.md
 [insights]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/insights.md
@@ -35,3 +37,5 @@
 [realtime-and-yet]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/realtime-and-yet.md
 [meteor]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/meteor.md
 [socket-stream]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/socket-stream.md
+[observability]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/observability.md
+[azure]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/azure.md
