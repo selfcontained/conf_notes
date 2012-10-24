@@ -19,6 +19,8 @@
 +	[SocketStream][socket-stream] **Owen Barnes**
 +	[Observability][observability] **Daniel Shaw**
 +	[azure][azure] **Glen Block**
++	[Presence][presence] **Peter Saint-Andre**
++	[Rethinking OAuth][rethinking-oauth] **Eran Hammer**
 
 [history-of-realtime]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/history-of-realtime.md
 [insights]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/insights.md
@@ -39,3 +41,5 @@
 [socket-stream]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/socket-stream.md
 [observability]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/observability.md
 [azure]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/azure.md
+[presence]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/presence.md
+[rethinking-oauth]: https://github.com/bmharris/conf_notes/blob/master/realtimeconf-2012/rethinking-oauth.md
